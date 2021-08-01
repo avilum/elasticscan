@@ -1,4 +1,4 @@
-# Elastic stack (ELK) on Docker
+# AWS ELK (ES - ElasticSearch Service) Port Scanner 
 
 # Get all ips from AWS public CIDR blocks for elasticsearch services
 `
